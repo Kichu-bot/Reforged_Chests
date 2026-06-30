@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "reforged_chests:block/spruce_chest_tier5"
+    },
+    "facing=south": {
+      "model": "reforged_chests:block/spruce_chest_tier5",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "reforged_chests:block/spruce_chest_tier5",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "reforged_chests:block/spruce_chest_tier5",
+      "y": 90
+    }
+  }
+}

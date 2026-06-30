@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IPI",
+    "ICI",
+    "IPI"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:chest"
+    },
+    "I": {
+      "item": "minecraft:copper_ingot"
+    },
+    "P": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "result": {
+    "id": "reforged_chests:acacia_chest_tier1",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "reforged_chests:oak_chest_tier1", "reforged_chests:oak_chest_tier2", "reforged_chests:oak_chest_tier3", "reforged_chests:oak_chest_tier4", "reforged_chests:oak_chest_tier5",
+    "reforged_chests:spruce_chest_tier1", "reforged_chests:spruce_chest_tier2", "reforged_chests:spruce_chest_tier3", "reforged_chests:spruce_chest_tier4", "reforged_chests:spruce_chest_tier5",
+    "reforged_chests:birch_chest_tier1", "reforged_chests:birch_chest_tier2", "reforged_chests:birch_chest_tier3", "reforged_chests:birch_chest_tier4", "reforged_chests:birch_chest_tier5",
+    "reforged_chests:jungle_chest_tier1", "reforged_chests:jungle_chest_tier2", "reforged_chests:jungle_chest_tier3", "reforged_chests:jungle_chest_tier4", "reforged_chests:jungle_chest_tier5",
+    "reforged_chests:acacia_chest_tier1", "reforged_chests:acacia_chest_tier2", "reforged_chests:acacia_chest_tier3", "reforged_chests:acacia_chest_tier4", "reforged_chests:acacia_chest_tier5",
+    "reforged_chests:dark_oak_chest_tier1", "reforged_chests:dark_oak_chest_tier2", "reforged_chests:dark_oak_chest_tier3", "reforged_chests:dark_oak_chest_tier4", "reforged_chests:dark_oak_chest_tier5",
+    "reforged_chests:mangrove_chest_tier1", "reforged_chests:mangrove_chest_tier2", "reforged_chests:mangrove_chest_tier3", "reforged_chests:mangrove_chest_tier4", "reforged_chests:mangrove_chest_tier5",
+    "reforged_chests:cherry_chest_tier1", "reforged_chests:cherry_chest_tier2", "reforged_chests:cherry_chest_tier3", "reforged_chests:cherry_chest_tier4", "reforged_chests:cherry_chest_tier5",
+    "reforged_chests:bamboo_chest_tier1", "reforged_chests:bamboo_chest_tier2", "reforged_chests:bamboo_chest_tier3", "reforged_chests:bamboo_chest_tier4", "reforged_chests:bamboo_chest_tier5",
+    "reforged_chests:crimson_chest_tier1", "reforged_chests:crimson_chest_tier2", "reforged_chests:crimson_chest_tier3", "reforged_chests:crimson_chest_tier4", "reforged_chests:crimson_chest_tier5",
+    "reforged_chests:warped_chest_tier1", "reforged_chests:warped_chest_tier2", "reforged_chests:warped_chest_tier3", "reforged_chests:warped_chest_tier4", "reforged_chests:warped_chest_tier5"
+  ]
+}

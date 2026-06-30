@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "III",
+    "ICI",
+    "III"
+  ],
+  "key": {
+    "C": {
+      "item": "reforged_chests:mangrove_chest_tier3"
+    },
+    "I": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "reforged_chests:mangrove_chest_tier4",
+    "count": 1
+  }
+}

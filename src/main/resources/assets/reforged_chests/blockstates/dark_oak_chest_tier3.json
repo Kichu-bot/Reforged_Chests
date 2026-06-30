@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "reforged_chests:block/dark_oak_chest_tier3"
+    },
+    "facing=south": {
+      "model": "reforged_chests:block/dark_oak_chest_tier3",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "reforged_chests:block/dark_oak_chest_tier3",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "reforged_chests:block/dark_oak_chest_tier3",
+      "y": 90
+    }
+  }
+}

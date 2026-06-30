@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "reforged_chests:oak_chest_tier1",
+    "reforged_chests:oak_chest_tier2",
+    "reforged_chests:oak_chest_tier3",
+    "reforged_chests:oak_chest_tier4",
+    "reforged_chests:oak_chest_tier5"
+  ]
+}
